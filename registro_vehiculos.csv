@@ -1,0 +1,3 @@
+"('Vehiculo', {'marca': 'Toyota', 'modelo': 'Yaris', 'numero_de_ruedas': 4})"
+"('Vehiculo', {'marca': 'Fiat', 'modelo': 'Palio', 'numero_de_ruedas': 4})"
+"('Vehiculo', {'marca': 'Ford', 'modelo': 'Fiesta', 'numero_de_ruedas': 4})"
